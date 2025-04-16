@@ -7,7 +7,7 @@
 
 - 🌱 I'm an undergraduate at SLIIT
   
-- 🌱 I’m currently in a **Bachelor's Degree for Data Science
+- 🌱 I’m currently in a Bachelor's Degree for Data Science
 
 - 📫 You can reach me via **nethwanthisanga@gmail.com**
 
