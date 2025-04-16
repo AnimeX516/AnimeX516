@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animex516&label=Profile%20views&color=0e75b6&style=flat" alt="animex516" /> </p>
 
-- 👀 I’m interested in Data Analytics and Data Visualization | Python,SQL,Power BI
+- 👀 I’m interested in Data Analytics and Data Visualization using tools like Python, SQL, Power BI
 
 - 🌱 I'm an undergraduate at SLIIT
   
