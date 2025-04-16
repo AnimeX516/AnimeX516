@@ -2,6 +2,7 @@
 <h3 align="center">Data Enthusiast | Passionate about Data Science & Business Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animex516&label=Profile%20views&color=0e75b6&style=flat" alt="animex516" /> </p>
+
 - 👀 I’m interested in Data Analytics and Data Visualization
 
 - 🌱 I'm an undergraduate at SLIIT
