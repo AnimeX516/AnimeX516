@@ -1,4 +1,4 @@
-## Hi, I'm Thisanga Nethwan 👋
+## Hi there 👋
 
 <!--
 **AnimeX516/AnimeX516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
