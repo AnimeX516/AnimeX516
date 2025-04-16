@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Data Analytics and Data Visualization using tools like Python, SQL, Power BI
 
-- 🌱 I'm an undergraduate at SLIIT
+- 🌱 I'm an undergraduate
   
 - 🌱 I’m currently in a Bachelor's Degree for Data Science
 
